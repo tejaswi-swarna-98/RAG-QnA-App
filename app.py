@@ -10,6 +10,12 @@ import os
 import tempfile
 
 # Streamlit UI components
+# Set the page title and favicon
+st.set_page_config(
+    page_title="DocuQuest",
+    page_icon="🦜"  # You can also use an emoji or a URL
+)
+
 st.title("DocuQuest App 📄")
 openai_api_key = st.sidebar.text_input("Copy and Paste your OpenAI API Key and press 'ENTER'", type='password')
 
