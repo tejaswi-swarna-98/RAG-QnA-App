@@ -10,7 +10,7 @@ import os
 import tempfile
 
 # Streamlit UI components
-st.title("RAG QnA System 🗣")
+st.title("DocuQuest App 📄")
 openai_api_key = st.sidebar.text_input("Copy and Paste your OpenAI API Key and press 'ENTER'", type='password')
 
 # Validate OpenAI API Key
