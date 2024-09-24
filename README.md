@@ -1,4 +1,4 @@
-# RAG Q&A Application
+# RAG Q&A Application 🦜
 
 This RAG (Retrieval-Augmented Generation) Q&A app allows users to upload a document and query it for relevant answers. Users can input their OpenAI API key, upload a document (PDF or text file), and ask questions related to the document content. The app will generate precise answers based on the uploaded document using OpenAI's language models.
 
@@ -38,5 +38,6 @@ RAG_Project
 
 - [Streamlit](https://streamlit.io/) for the interactive app framework.
 - [OpenAI](https://openai.com/) for providing the API and language models.
+- [LangChain](https://www.langchain.com/) for enhancing the document processing and retrieval capabilities. 
 
 ---
