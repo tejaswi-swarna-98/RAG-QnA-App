@@ -1,6 +1,12 @@
 # RAG Q&A Application 🦜
 
-This RAG (Retrieval-Augmented Generation) Q&A app allows users to upload a document and query it for relevant answers. Users can input their OpenAI API key, upload a document (PDF or text file), and ask questions related to the document content. The app will generate precise answers based on the uploaded document using OpenAI's language models.
+This RAG (Retrieval-Augmented Generation) Q&A app allows users to upload a document and query it for relevant answers. Users can input their OpenAI API key, upload a document (PDF or text file), and ask questions related to the document content. The app will generate answers based on the uploaded document using OpenAI's language models.
+
+[![Try App](https://img.shields.io/badge/Visit_App-Live-brightgreen?style=flat-square)](https://docuquest-app.onrender.com/)
+
+#### **Disclaimer**
+
+*This is a **very basic implementation** of a Retrieval-Augmented Generation (RAG) system. As such, it may have limitations in handling complex documents or answering nuanced queries. Future versions may include improved document processing, better query handling, and more. Please use the tool accordingly and fairly.*
 
 ## Features
 
